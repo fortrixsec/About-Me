@@ -1,17 +1,9 @@
 # Hi, I'm Nizath 👋  
 ### 🛡️ Ethical Hacker | 🖥️ System Tool Developer | 🧠 Self-Taught Cybersecurity Enthusiast
 
-I'm from 🇱🇰 Sri Lanka, currently building cybersecurity tools and learning advanced programming.  
-Insha'Allah, I aim to work in 🇰🇼 Kuwait or 🇪🇺 Europe as a professional in cybersecurity and system programming.
+I'm from 🇱🇰 Sri Lanka, currently building cybersecurity tools and learning advanced programming.
+My goal is to become a professional in cybersecurity and system programming, Insha’Allah.
 
----
-
-### 🚀 Current Projects
-- 🔠 `HackTypeFX` — Hacker-style terminal typing simulator (cross-platform)
-- 🧹 `CleanWindowsPro` — Advanced Windows optimization tool (C-based)
-- 🔐 Malware Analysis & Reverse Engineering
-- 📱 Mobile-to-PC Remote Control Tool (shutdown, DNS, cleaner)
-- 🧠 Building C-based Intrusion Detection System (IDS)
 
 ---
 
