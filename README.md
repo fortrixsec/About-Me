@@ -31,7 +31,7 @@ My goal is to become a professional in cybersecurity and system programming, Ins
 
 - 💌 Email: `nisathnisath606@gmail.com`
 - 🛠️ GitHub Projects: [github.com/niz-codex](https://github.com/nizath)
-- 🌍 Dream Destinations: 🇰🇼 Kuwait & 🇪🇺 Europe – Coming soon, Insha’Allah!
+- 🌍 Dream Goal: Work abroad as a cybersecurity expert – Coming soon, Insha’Allah!
 
 ---
 
