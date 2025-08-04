@@ -32,7 +32,7 @@ My goal is to become a professional cybersecurity and system programming expert,
 ### 📫 Contact Me
 
 - 💌 Email: [nisathnisath606@gmail.com](mailto:nisathnisath606@gmail.com)  
-- 🛠️ GitHub: [github.com/muhammed_nisath](https://github.com/muhammed_nisath)  
+- 🛠️ GitHub: [github.com/fortrixsec](https://github.com/fortrixsec)  
 - 🌍 Future Goal: Build my own cybersecurity company, Insha’Allah
 
 ---
